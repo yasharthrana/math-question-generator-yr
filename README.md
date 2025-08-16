@@ -4,7 +4,7 @@ This project generates mathematics multiple-choice questions with:
 Clearly formatted metadata (@title, @description, @question, etc.)
 Realistic distractor options with one correct answer
 
-Detailed explanations
+Detailed explanation
 
 An illustrative diagram embedded in the .docx output
 
