@@ -3,7 +3,7 @@ import random
 from pathlib import Path
 from docx import Document
 from docx.shared import Inches
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFon
 from openai import OpenAI
 
 # =============================
@@ -187,3 +187,4 @@ output_docx = output_dir / "questions_output_with_diagram.docx"
 doc.save(output_docx)
 
 print(f"📄 Saved generated questions to: {output_docx}")
+
